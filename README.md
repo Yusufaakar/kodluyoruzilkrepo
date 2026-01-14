@@ -1,4 +1,4 @@
-![udemy-react-v1.jpg]
+![logo](udemy-react-v1.jpg)
 # Kodluyoruz İlk Repo
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dostası, bir adet index.html barındırıyor.
